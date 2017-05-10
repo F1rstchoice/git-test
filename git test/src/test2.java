@@ -5,5 +5,6 @@ public class test2
 	{
 		System.out.println("This is GITHUUUB!");
 		System.out.println("SIGNAL");
+		System.out.println("5/15");
 	}
 }
